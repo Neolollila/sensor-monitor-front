@@ -45,9 +45,3 @@ Back-end
    <img width="898" alt="image" src="https://github.com/Neolollila/Sensors-Monitor/assets/87725355/138cbfd3-17e3-4690-957d-4b2e49e702b2">
    <img width="905" alt="image" src="https://github.com/Neolollila/Sensors-Monitor/assets/87725355/cb305c7e-65d6-49ed-9a89-4bdee87c395f">
 
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
